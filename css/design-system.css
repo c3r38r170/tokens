@@ -1,0 +1,10 @@
+fieldset{
+	border: 1px solid white !important;
+	margin-bottom: 2rem;
+	display: flex;
+	flex-direction: column;
+	gap: .5rem;
+}
+	fieldset > * {
+		width: 100%;
+	}

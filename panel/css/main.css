@@ -1,0 +1,15 @@
+body > p{
+	margin-left: auto;
+	margin-right: auto;
+	font-size: larger;
+}
+body > fieldset{
+	border: 1px solid white !important;
+	margin-bottom: 2rem;
+}
+#salir{
+	background-color: var(--danger-color);
+}
+	#salir:hover{
+		background-color: var(--danger-hover-color);
+	}
